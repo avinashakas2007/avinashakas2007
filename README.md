@@ -7,21 +7,21 @@ I am an **Engineering student** specializing in **Full-Stack Development** and *
 
 ## Skills 💪🏻
 ### Languages:
-![Java](https://media.giphy.com/media/3o7qE7tRi2koynLh5C/giphy.gif) Java  
-![JavaScript](https://media.giphy.com/media/4Zo41lhzKt6iZ8X6Z8/giphy.gif) JavaScript
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) Java  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
 
 ### Web Development:
-![Node.js](https://media.giphy.com/media/QyA5p9uB1h1eExa7zp/giphy.gif) Node.js  
-![HTML5](https://media.giphy.com/media/4Zo41lhzKt6iZ8X6Z8/giphy.gif) HTML5  
-![CSS3](https://media.giphy.com/media/xUOxf4oS82d3a5ztYw/giphy.gif) CSS3  
-![TailwindCSS](https://media.giphy.com/media/dF8cLrZzAfJuNq7F5x/giphy.gif) TailwindCSS  
-![Bootstrap](https://media.giphy.com/media/3o6Zt5VZQOeOOHgA6c/giphy.gif) Bootstrap  
-![Express.js](https://media.giphy.com/media/fiwyT4pr3Jj3p9mbJb/giphy.gif) Express.js  
-![React.js](https://media.giphy.com/media/l3vQzGZQ93gKQYOI4/giphy.gif) React.js
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) Node.js  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS3  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) TailwindCSS  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) Bootstrap  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) Express.js  
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) React.js
 
 ### Databases:
-![MySQL](https://media.giphy.com/media/61VrUj03YJ9lO1fw7g/giphy.gif) MySQL  
-![MongoDB](https://media.giphy.com/media/3o6fJcOMZri9PS4U8A/giphy.gif) MongoDB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB
 
 ---
 
