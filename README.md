@@ -7,21 +7,21 @@ I am an **Engineering student** specializing in **Full-Stack Development** and *
 
 ## Skills 💪🏻
 ### Languages:
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+![Java](https://media.giphy.com/media/3o7qE7tRi2koynLh5C/giphy.gif) Java  
+![JavaScript](https://media.giphy.com/media/4Zo41lhzKt6iZ8X6Z8/giphy.gif) JavaScript
 
 ### Web Development:
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js  
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5  
-![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3  
-![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png) TailwindCSS  
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  
-![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js  
-![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js
+![Node.js](https://media.giphy.com/media/QyA5p9uB1h1eExa7zp/giphy.gif) Node.js  
+![HTML5](https://media.giphy.com/media/4Zo41lhzKt6iZ8X6Z8/giphy.gif) HTML5  
+![CSS3](https://media.giphy.com/media/xUOxf4oS82d3a5ztYw/giphy.gif) CSS3  
+![TailwindCSS](https://media.giphy.com/media/dF8cLrZzAfJuNq7F5x/giphy.gif) TailwindCSS  
+![Bootstrap](https://media.giphy.com/media/3o6Zt5VZQOeOOHgA6c/giphy.gif) Bootstrap  
+![Express.js](https://media.giphy.com/media/fiwyT4pr3Jj3p9mbJb/giphy.gif) Express.js  
+![React.js](https://media.giphy.com/media/l3vQzGZQ93gKQYOI4/giphy.gif) React.js
 
 ### Databases:
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL  
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+![MySQL](https://media.giphy.com/media/61VrUj03YJ9lO1fw7g/giphy.gif) MySQL  
+![MongoDB](https://media.giphy.com/media/3o6fJcOMZri9PS4U8A/giphy.gif) MongoDB
 
 ---
 
