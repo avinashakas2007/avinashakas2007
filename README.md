@@ -19,7 +19,8 @@ I am an **Engineering student** specializing in **Full-Stack Development** and *
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3** &nbsp;
 ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png) **TailwindCSS** &nbsp;
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap** &nbsp;
-![Express.js](https://img.icons8.com/color/48/000000/express.png) **Express.js** &nbsp;
+!![EJS](https://img.icons8.com/color/48/000000/javascript.png) **EJS**
+ &nbsp;
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png) **React.js**
 
 ### 🗄️ **Databases**:
