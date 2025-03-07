@@ -5,23 +5,32 @@ I am an **Engineering student** specializing in **Full-Stack Development** and *
 🌍 **Based in**: Chennai, Tamil Nadu  
 🤝 **Open to collaborations**: I'm always excited to collaborate on innovative projects!
 
+---
+
 ## Skills 💪🏻
-### Languages:
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 
-### Web Development:
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js  
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5  
-![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3  
-![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png) TailwindCSS  
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  
-![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js  
-![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js
+### 💻 **Languages**:
+<div>
+  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java** &nbsp; &nbsp;
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
+</div>
 
-### Databases:
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL  
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+### 🌐 **Web Development**:
+<div>
+  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js** &nbsp; &nbsp;
+  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5** &nbsp; &nbsp;
+  ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3** &nbsp; &nbsp;
+  ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png) **TailwindCSS** &nbsp; &nbsp;
+  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap** &nbsp; &nbsp;
+  ![Express.js](https://img.icons8.com/color/48/000000/express.png) **Express.js** &nbsp; &nbsp;
+  ![React.js](https://img.icons8.com/color/48/000000/react-native.png) **React.js**
+</div>
+
+### 🗄️ **Databases**:
+<div>
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL** &nbsp; &nbsp;
+  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
+</div>
 
 ---
 
